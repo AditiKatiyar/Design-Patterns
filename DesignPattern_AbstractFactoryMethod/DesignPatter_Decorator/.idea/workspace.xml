@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b79c1a6b-e04d-4767-81e4-41a4df5fd268" name="Default Changelist" comment="" />
+    <list default="true" id="1253cbda-32b7-44a9-80d1-9199d89f96ce" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,18 +16,10 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectId" id="1ZGJXUdTljGJZ0VxeFzafmZV998" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
+  <component name="ProjectId" id="1cOn5SGjFV8Q1Wm5ogmtjr9m1E3" />
   <component name="RecentsManager">
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
-      <recent name="text" />
-      <recent name="background" />
+      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -44,7 +36,7 @@
   </component>
   <component name="RunManager">
     <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="DesignPattern_AbstractFactoryMethod" />
+      <module name="DesignPatter_Decorator" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -67,25 +59,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b79c1a6b-e04d-4767-81e4-41a4df5fd268" name="Default Changelist" comment="" />
-      <created>1584459536561</created>
+      <changelist id="1253cbda-32b7-44a9-80d1-9199d89f96ce" name="Default Changelist" comment="" />
+      <created>1590408323793</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1584459536561</updated>
+      <updated>1590408323793</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
